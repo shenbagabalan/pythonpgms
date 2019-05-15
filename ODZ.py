@@ -1,9 +1,8 @@
-number=input()
-try:
-    number=int(number)
+number=int(input())
+if(number>0):
     if(number%2==0):
         print("Even")
     else:
         print("Odd")
-except ValueError:
-        print("Invalid")
+else:
+    print("Invalid")
