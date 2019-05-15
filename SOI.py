@@ -1,0 +1,10 @@
+n,k=input().split()
+n=int(n)
+k=int(k)
+list1=input().split()
+s=0
+c=0
+while(c<k):
+        s=s+int(list1[c])
+        c+=1
+print(s)
