@@ -1,0 +1,21 @@
+sh=int(input())
+if(sh==1):
+  print("One")
+elif(sh==2):
+  print("Two")
+elif(sh==3):
+  print("Three")
+elif(sh==4):
+  print("Four")
+elif(sh==5):
+  print("Five")
+elif(sh==6):
+  print("Six")
+elif(sh==7):
+  print("Seven")
+elif(sh==8):
+  print("Eight")
+elif(sh==9):
+  print("Nine")
+elif(sh==10):
+  print("Ten")
