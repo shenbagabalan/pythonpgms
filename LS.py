@@ -1,0 +1,5 @@
+No=int(input())
+array=input().split()
+sh=max(array)
+si=min(array)
+print(si,sh)
