@@ -1,0 +1,15 @@
+sh=input()
+if(sh=='Monday'):
+  print('no')
+elif(sh=='Tuesday'):
+  print('no')
+elif(sh=='Wednesday'):
+  print('no')
+elif(sh=='Thusday'):
+  print('no')
+elif(sh=='Friday'):
+  print('no')
+elif(sh=='Saturday'):
+  print('yes')
+elif(sh=='Sunday'):
+  print('yes')
