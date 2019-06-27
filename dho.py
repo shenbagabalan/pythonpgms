@@ -1,6 +1,6 @@
-from collections import Cr 
+from collections import Counter 
 st=input()
-if(Cr(st)==Cr("dhoni")):
+if(Counter(st)==Counter("dhoni")):
     print("yes",end="")
 else:
     print("no",end="")
